@@ -1,4 +1,4 @@
-# Docker & Kuberbetes Study
+# Docker & Kubernetes Study
 
 ## 개요
 > 도커 & 쿠버네티스 학습을 위한 스터디입니다.
